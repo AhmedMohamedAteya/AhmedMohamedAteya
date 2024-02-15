@@ -11,10 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anddev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anddev7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anddev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9038813/ahmed-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9038813/ahmed-mohamed" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_mohamed_ateya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_mohamed_ateya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ateya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ateya" height="30" width="40" /></a>
 </p>
 
